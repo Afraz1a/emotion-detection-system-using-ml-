@@ -1,0 +1,18 @@
+modality,dimension,group,accuracy,n
+face,gender,Female,0.7675,4787
+face,gender,Male,0.7381,5254
+face,race,Black,0.756,787
+face,race,East Asian,0.7773,1073
+face,race,Indian,0.7689,238
+face,race,Latino_Hispanic,0.7313,361
+face,race,Middle Eastern,0.6918,1671
+face,race,Southeast Asian,0.7825,400
+face,race,White,0.7634,5511
+audio,gender,Female,0.7145,634
+audio,gender,Male,0.724,366
+audio,race,African American,0.7236,246
+audio,race,Asian,0.7317,164
+audio,race,Caucasian,0.7195,410
+audio,age,20s,0.7561,82
+audio,age,30-44,0.7175,492
+audio,age,45-59,0.7236,246

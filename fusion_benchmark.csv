@@ -1,0 +1,5 @@
+model,accuracy,macro_f1
+Face-only,0.711,0.7058
+Voice-only,0.6633,0.6584
+Fused (weighted avg),0.7748,0.7702
+Fused (conf. gated),0.7986,0.7935
